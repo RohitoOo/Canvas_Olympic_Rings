@@ -29,7 +29,7 @@ var c = canvas.getContext("2d");
 // c.stroke()
 // c.style = "black"
 x=200;
-y=200
+y=300
 var radius = 70;
 dx= 3;
 dy=3;
